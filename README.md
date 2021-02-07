@@ -1,0 +1,2 @@
+# Multi-label-Classification
+In this project, I created a multi-label images classification CNN model using Keras and TensorFlow. The dataset contains 60,000 color images of 32 x 32 pixels in 3 channels divided into 10 classes. Each class contains 6,000 images. So as to avoid the Overfitting problem and achieve a better performance, I worked with 4 regularization techniques: Dropout, Weight decay, early stopping and Data augmentation.   
